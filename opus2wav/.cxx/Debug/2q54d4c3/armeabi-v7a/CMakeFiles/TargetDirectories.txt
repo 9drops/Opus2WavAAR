@@ -1,0 +1,3 @@
+/Users/drops/AndroidStudioProjects/Opus2WavAAR/opus2wav/.cxx/Debug/2q54d4c3/armeabi-v7a/CMakeFiles/opus2wav.dir
+/Users/drops/AndroidStudioProjects/Opus2WavAAR/opus2wav/.cxx/Debug/2q54d4c3/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/drops/AndroidStudioProjects/Opus2WavAAR/opus2wav/.cxx/Debug/2q54d4c3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

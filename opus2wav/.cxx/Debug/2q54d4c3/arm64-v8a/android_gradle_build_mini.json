@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/drops/AndroidStudioProjects/Opus2WavAAR/opus2wav/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/drops/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/drops/AndroidStudioProjects/Opus2WavAAR/opus2wav/.cxx/Debug/2q54d4c3/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/drops/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/drops/AndroidStudioProjects/Opus2WavAAR/opus2wav/.cxx/Debug/2q54d4c3/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opus2wav::@6890427a1f51a3e7e1df": {
+      "artifactName": "opus2wav",
+      "abi": "arm64-v8a",
+      "output": "/Users/drops/AndroidStudioProjects/Opus2WavAAR/opus2wav/build/intermediates/cxx/Debug/2q54d4c3/obj/arm64-v8a/libopus2wav.so",
+      "runtimeFiles": []
+    }
+  }
+}

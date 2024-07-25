@@ -1,0 +1,4 @@
+# ninja log v5
+0	2281	1721924775432504153	CMakeFiles/opus2wav.dir/opus2wav.cpp.o	ee586352cafd1872
+2291	2427	1721924775581282243	/Users/drops/AndroidStudioProjects/Opus2WavAAR/opus2wav/build/intermediates/cxx/Debug/2q54d4c3/obj/arm64-v8a/libopus2wav.so	cd370c110f5c6b2e
+1	8	0	clean	3f113e3534b259f6
